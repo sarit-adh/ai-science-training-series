@@ -1,0 +1,56 @@
+[2022-11-09 23:21:09,046][ai4sci.ilsvrc_dataset][INFO] - input filelist contains 1281167 files, estimated batches per rank 312
+[2022-11-09 23:21:11,398][ai4sci.ilsvrc_dataset][INFO] - input filelist contains 50000 files, estimated batches per rank 12
+[2022-11-09 23:21:37,976][ai4sci.trainer][INFO] - [0] [0/1: 0 / 160145 (0%)] epoch=0.0000 dt=24.7956 running_loss=0.0000 batch_loss=0.0146 acc=0.0000 batch_acc=0.0000
+[2022-11-09 23:21:53,404][ai4sci.trainer][INFO] - [0] [0/1: 5120 / 160145 (3%)] epoch=0.0000 dt=0.5235 running_loss=0.0005 batch_loss=0.0139 acc=0.0000 batch_acc=0.0020
+[2022-11-09 23:22:01,751][ai4sci.trainer][INFO] - [0] [0/1: 10240 / 160145 (6%)] epoch=0.0000 dt=0.5561 running_loss=0.0009 batch_loss=0.0136 acc=0.0001 batch_acc=0.0020
+[2022-11-09 23:22:09,983][ai4sci.trainer][INFO] - [0] [0/1: 15360 / 160145 (10%)] epoch=0.0000 dt=0.5506 running_loss=0.0014 batch_loss=0.0135 acc=0.0001 batch_acc=0.0020
+[2022-11-09 23:22:18,326][ai4sci.trainer][INFO] - [0] [0/1: 20480 / 160145 (13%)] epoch=0.0000 dt=0.5186 running_loss=0.0018 batch_loss=0.0135 acc=0.0002 batch_acc=0.0000
+[2022-11-09 23:22:26,795][ai4sci.trainer][INFO] - [0] [0/1: 25600 / 160145 (16%)] epoch=0.0000 dt=0.5353 running_loss=0.0022 batch_loss=0.0135 acc=0.0002 batch_acc=0.0000
+[2022-11-09 23:22:35,152][ai4sci.trainer][INFO] - [0] [0/1: 30720 / 160145 (19%)] epoch=0.0000 dt=0.5135 running_loss=0.0027 batch_loss=0.0134 acc=0.0003 batch_acc=0.0020
+[2022-11-09 23:22:45,861][ai4sci.trainer][INFO] - [0] [0/1: 35840 / 160145 (22%)] epoch=0.0000 dt=0.5900 running_loss=0.0031 batch_loss=0.0133 acc=0.0004 batch_acc=0.0039
+[2022-11-09 23:22:54,359][ai4sci.trainer][INFO] - [0] [0/1: 40960 / 160145 (26%)] epoch=0.0000 dt=0.5278 running_loss=0.0035 batch_loss=0.0133 acc=0.0005 batch_acc=0.0020
+[2022-11-09 23:23:02,549][ai4sci.trainer][INFO] - [0] [0/1: 46080 / 160145 (29%)] epoch=0.0000 dt=0.5406 running_loss=0.0040 batch_loss=0.0132 acc=0.0005 batch_acc=0.0059
+[2022-11-09 23:23:12,220][ai4sci.trainer][INFO] - [0] [0/1: 51200 / 160145 (32%)] epoch=0.0000 dt=0.5132 running_loss=0.0044 batch_loss=0.0132 acc=0.0007 batch_acc=0.0020
+[2022-11-09 23:23:23,883][ai4sci.trainer][INFO] - [0] [0/1: 56320 / 160145 (35%)] epoch=0.0000 dt=0.5953 running_loss=0.0048 batch_loss=0.0133 acc=0.0008 batch_acc=0.0059
+[2022-11-09 23:23:33,117][ai4sci.trainer][INFO] - [0] [0/1: 61440 / 160145 (38%)] epoch=0.0000 dt=0.5612 running_loss=0.0052 batch_loss=0.0131 acc=0.0009 batch_acc=0.0059
+[2022-11-09 23:23:41,725][ai4sci.trainer][INFO] - [0] [0/1: 66560 / 160145 (42%)] epoch=0.0000 dt=0.5240 running_loss=0.0056 batch_loss=0.0130 acc=0.0010 batch_acc=0.0039
+[2022-11-09 23:23:50,205][ai4sci.trainer][INFO] - [0] [0/1: 71680 / 160145 (45%)] epoch=0.0000 dt=0.5074 running_loss=0.0060 batch_loss=0.0129 acc=0.0012 batch_acc=0.0078
+[2022-11-09 23:23:58,888][ai4sci.trainer][INFO] - [0] [0/1: 76800 / 160145 (48%)] epoch=0.0000 dt=0.8126 running_loss=0.0065 batch_loss=0.0130 acc=0.0013 batch_acc=0.0039
+[2022-11-09 23:24:11,501][ai4sci.trainer][INFO] - [0] [0/1: 81920 / 160145 (51%)] epoch=0.0000 dt=0.5933 running_loss=0.0069 batch_loss=0.0129 acc=0.0015 batch_acc=0.0039
+[2022-11-09 23:24:22,954][ai4sci.trainer][INFO] - [0] [0/1: 87040 / 160145 (54%)] epoch=0.0000 dt=0.6870 running_loss=0.0073 batch_loss=0.0128 acc=0.0017 batch_acc=0.0039
+[2022-11-09 23:25:09,944][ai4sci.trainer][INFO] - [0] [0/1: 92160 / 160145 (58%)] epoch=0.0000 dt=0.5591 running_loss=0.0077 batch_loss=0.0129 acc=0.0019 batch_acc=0.0039
+[2022-11-09 23:25:16,939][ai4sci.trainer][INFO] - [0] [0/1: 97280 / 160145 (61%)] epoch=0.0000 dt=0.5152 running_loss=0.0081 batch_loss=0.0127 acc=0.0022 batch_acc=0.0273
+[2022-11-09 23:25:25,496][ai4sci.trainer][INFO] - [0] [0/1: 102400 / 160145 (64%)] epoch=0.0000 dt=0.5763 running_loss=0.0085 batch_loss=0.0127 acc=0.0024 batch_acc=0.0039
+[2022-11-09 23:25:33,829][ai4sci.trainer][INFO] - [0] [0/1: 107520 / 160145 (67%)] epoch=0.0000 dt=0.5007 running_loss=0.0089 batch_loss=0.0125 acc=0.0027 batch_acc=0.0078
+[2022-11-09 23:25:42,964][ai4sci.trainer][INFO] - [0] [0/1: 112640 / 160145 (71%)] epoch=0.0000 dt=0.5478 running_loss=0.0093 batch_loss=0.0124 acc=0.0030 batch_acc=0.0176
+[2022-11-09 23:25:51,533][ai4sci.trainer][INFO] - [0] [0/1: 117760 / 160145 (74%)] epoch=0.0000 dt=0.6254 running_loss=0.0097 batch_loss=0.0124 acc=0.0033 batch_acc=0.0098
+[2022-11-09 23:26:02,472][ai4sci.trainer][INFO] - [0] [0/1: 122880 / 160145 (77%)] epoch=0.0000 dt=0.7956 running_loss=0.0101 batch_loss=0.0124 acc=0.0038 batch_acc=0.0176
+[2022-11-09 23:26:13,196][ai4sci.trainer][INFO] - [0] [0/1: 128000 / 160145 (80%)] epoch=0.0000 dt=0.5258 running_loss=0.0105 batch_loss=0.0120 acc=0.0043 batch_acc=0.0176
+[2022-11-09 23:26:23,750][ai4sci.trainer][INFO] - [0] [0/1: 133120 / 160145 (83%)] epoch=0.0000 dt=0.5113 running_loss=0.0109 batch_loss=0.0119 acc=0.0047 batch_acc=0.0215
+[2022-11-09 23:26:33,726][ai4sci.trainer][INFO] - [0] [0/1: 138240 / 160145 (87%)] epoch=0.0000 dt=0.5563 running_loss=0.0113 batch_loss=0.0120 acc=0.0053 batch_acc=0.0215
+[2022-11-09 23:26:42,067][ai4sci.trainer][INFO] - [0] [0/1: 143360 / 160145 (90%)] epoch=0.0000 dt=0.5706 running_loss=0.0116 batch_loss=0.0116 acc=0.0060 batch_acc=0.0312
+[2022-11-09 23:26:51,584][ai4sci.trainer][INFO] - [0] [0/1: 148480 / 160145 (93%)] epoch=0.0000 dt=0.6054 running_loss=0.0120 batch_loss=0.0116 acc=0.0069 batch_acc=0.0273
+[2022-11-09 23:27:01,763][ai4sci.trainer][INFO] - [0] [0/1: 153600 / 160145 (96%)] epoch=0.0000 dt=0.5753 running_loss=0.0124 batch_loss=0.0114 acc=0.0079 batch_acc=0.0391
+[2022-11-09 23:27:12,502][ai4sci.trainer][INFO] - [0] [0/1: 158720 / 160145 (99%)] epoch=0.0000 dt=0.5298 running_loss=0.0127 batch_loss=0.0112 acc=0.0088 batch_acc=0.0352
+[2022-11-09 23:27:15,225][__main__][INFO] - Total training time: 368.0190591812134 seconds
+[2022-11-09 23:27:15,225][__main__][INFO] - Total training time: 368.0174763202667 seconds
+[2022-11-09 23:27:15,225][__main__][INFO] - Total training time: 368.0179100036621 seconds
+[2022-11-09 23:27:15,225][__main__][INFO] - Total training time: 368.016783952713 seconds
+[2022-11-09 23:27:15,228][__main__][INFO] - Total training time: 368.0212359428406 seconds
+[2022-11-09 23:27:15,228][__main__][INFO] - Total training time: 368.0234122276306 seconds
+[2022-11-09 23:27:15,229][__main__][INFO] - Total training time: 368.0222043991089 seconds
+[2022-11-09 23:27:15,230][__main__][INFO] - Average time per epoch in the last 5: 363.71411967277527
+[2022-11-09 23:27:15,230][__main__][INFO] - Average time per epoch in the last 5: 363.7107849121094
+[2022-11-09 23:27:15,230][__main__][INFO] - Average time per epoch in the last 5: 363.7102019786835
+[2022-11-09 23:27:15,230][__main__][INFO] - Average time per epoch in the last 5: 363.7101321220398
+[2022-11-09 23:27:15,230][__main__][INFO] - Average time per epoch in the last 5: 363.7149052619934
+[2022-11-09 23:27:15,230][__main__][INFO] - Average time per epoch in the last 5: 363.7134301662445
+[2022-11-09 23:27:15,230][__main__][INFO] - Average time per epoch in the last 5: 363.7104551792145
+[2022-11-09 23:27:21,940][__main__][INFO] - -------------------
+[2022-11-09 23:27:21,940][__main__][INFO] - [TEST] Accuracy: 0%
+[2022-11-09 23:27:21,940][__main__][INFO] - -------------------
+[2022-11-09 23:27:22,226][__main__][INFO] - ----------------------------
+[2022-11-09 23:27:22,226][__main__][INFO] - [TRAIN]  loss=0.0016  acc=0%
+[2022-11-09 23:27:22,226][__main__][INFO] - ----------------------------
+[2022-11-09 23:27:23,080][__main__][INFO] - Total training time: 375.8734333515167 seconds
+[2022-11-09 23:27:23,080][__main__][INFO] - Average time per epoch in the last 5: 363.7096848487854
